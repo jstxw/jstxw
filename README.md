@@ -1,5 +1,6 @@
-👋 Hi, I'm Justin. Incoming freshman at Waterloo University studying Management Engineering. Current AI/ML intern at Logics Technology INC. working on AI agents and workflow automation. Happy to connect and chat!
 
+
+![Hackatime Statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=2939&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark)
 <!---
 jstxw/jstxw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
