@@ -1,5 +1,5 @@
 
-![alt-text](photo66.jpeg)
+<img src="photo66.jpeg" alt="alt-text" width="100%">
 
 ![Hackatime Statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=2939&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark)
 <!---
