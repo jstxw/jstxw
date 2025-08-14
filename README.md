@@ -1,5 +1,7 @@
 <h2>Heyo, I'm Justin!</h2>
----
+
+
+<h3>I love coding 💻, sports 🏸🎿🏀, and photography 📸 (visit my profile at:[link](https://www.instagram.com/lifethroughphotos07/?next=%2F))</h3>
 
 <p align="center">
   <img src="photo66.jpeg" alt="alt-text" style="width:100%; max-height:400px; object-fit:cover;">
