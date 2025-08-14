@@ -23,7 +23,7 @@
 
 
 
-- 💀 Student @ Waterloo Engineering
+- 💀 Student @ Waterloo Engineering ('30)
 - 🚢 Just finished an hackathon on a private island @ Boston (Hack Club!!!!)
 - 📚 AI/ML Intern @ Logics; doing multi-tenant cloud based service management w/ CIPP
 - 😭 Trying to master web dev
