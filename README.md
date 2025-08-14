@@ -1,7 +1,7 @@
 <h2>Heyo, I'm Justin!</h2>
 
 *Aspiring (Developer / Programmer)*
-<h3>*Psst*, I love coding 💻, sports 🏸🎿🏀, and photography 📸</h3>
+*Psst* 😲 <h3>I love coding 💻, sports 🏸🎿🏀, and photography 📸</h3>
 
 <p> I build useful ... and not so useful things w/ Python, ReactJS, Node.js, FastAPI, DBMS, REST API and Data Visualization tools. </p>
 
