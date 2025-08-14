@@ -1,5 +1,6 @@
 
-![](IMG_2258 (1).jpeg)
+![alt-text](IMG_2258\ \(1\).jpeg)
+
 ![Hackatime Statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=2939&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark)
 <!---
 jstxw/jstxw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
