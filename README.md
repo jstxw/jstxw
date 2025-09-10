@@ -33,12 +33,6 @@
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2939&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark" alt="Hackatime Statistics">
 </p>
 
-<h3>Check out my photography account @lifethroughphotos07 on Instagram</h3>
-
-<p align="center">
-  <img src="photo66.jpeg" alt="alt-text" style="width:100%; max-height:400px; object-fit:cover;">
-</p>
-
 
 
 <!---
