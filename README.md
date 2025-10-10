@@ -29,8 +29,14 @@
 - 😭 Trying to master web dev
 - 📖 Love to explore new technologies and leverage them to solve real world problems!
 
+## 📊 Coding Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2939&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark" alt="Hackatime Statistics">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2939&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark" alt="Hackatime Statistics">
+</p>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@4344c07b-e849-4e4f-b74e-5e0e11896e88/399c9aaf-41df-4b25-8beb-50d132913928.svg" alt="Wakatime Chart">
 </p>
 
 
