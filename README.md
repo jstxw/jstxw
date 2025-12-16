@@ -49,6 +49,19 @@
 
 <img src="https://raw.githubusercontent.com/jstxw/jstxw/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"
+    width="600"
+    style="
+      border-radius: 16px;
+      border: 2px solid #2f81f7;
+      box-shadow: 0 0 25px rgba(47,129,247,0.35);
+    "
+  />
+</div>
+
+
 
 
 
