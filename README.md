@@ -47,11 +47,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jstxw&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstxw&layout=compact&theme=dark)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jstxw/jstxw/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jstxw/jstxw/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jstxw/jstxw/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/jstxw/jstxw/output/snake.svg" alt="Snake animation" />
 
 
 
