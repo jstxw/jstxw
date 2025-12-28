@@ -11,6 +11,7 @@
 
 - First Year Management Engineering @ [University of Waterloo](https://www.topuniversities.com/universities/university-waterloo/undergrad/software-engineering-bas)
 - Lead Software Developer @ [Melomed](https://www.melomed.io/)
+- 3x Hackathon Winner.
 - Just finished an hackathon on a private island @ Boston w/ [Hack Club](https://shipwrecked.hackclub.com/)
 - Love to explore new technologies and leverage them to solve real world problems!
 - Currently learning how to build scalable full-stack applications and DevOps.
