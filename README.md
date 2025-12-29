@@ -45,22 +45,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jstxw&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstxw&layout=compact&theme=dark)
-
 <img src="https://raw.githubusercontent.com/jstxw/jstxw/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"
-    width="600"
-    style="
-      border-radius: 16px;
-      border: 2px solid #2f81f7;
-      box-shadow: 0 0 25px rgba(47,129,247,0.35);
-    "
-  />
-</div>
 
 
 
