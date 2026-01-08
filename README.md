@@ -9,7 +9,7 @@
 
 <h2>About Me</h2>
 
-- First Year Management Engineering @ [University of Waterloo](https://www.topuniversities.com/universities/university-waterloo/undergrad/software-engineering-bas)
+- Engineering @ [University of Waterloo](https://www.topuniversities.com/universities/university-waterloo/undergrad/software-engineering-bas)
 - Lead Software Developer @ [Melomed](https://www.melomed.io/)
 - 3x Hackathon Winner.
 - Just finished an hackathon on a private island @ Boston w/ [Hack Club](https://shipwrecked.hackclub.com/)
