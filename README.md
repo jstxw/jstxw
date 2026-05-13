@@ -16,6 +16,7 @@
 - hackathon enjoyer ; [7x winner](https://devpost.com/justintwx7?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - on the side, i weightlift, take [photos and content create](https://www.instagram.com/frames.by.justin/reels/), travel, and learn guitar!
 - one leetcode a day keeps the doctor away...
+- seeking winter 27' swe/ai/data internships
 
 
 <h3 align="center"> what i am proficent and capable in... </h3>
