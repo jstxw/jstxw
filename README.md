@@ -10,14 +10,13 @@
 </p>
 <h3 align="center"> a little bit more about me... 🌱</h3>
 
-- current software intern @ [german aerospace center](https://www.dlr.de/de), building telemetry observibility infrastructure for PoC vehicles.
-- scaling [brikli](https://brikli.com/) from 0 -> 1; [antler](https://www.antler.co/) residency startup building next gen proptech service.
-- exploring agentic self improving agents -> check out [project](https://devpost.com/software/meta-harness).
-- hackathon enjoyer ; [7x winner](https://devpost.com/justintwx7?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- agent evals + rl envs @ [mercor](https://www.mercor.com/)
+- prev. software intern @ [german aerospace center](https://www.dlr.de/de), building telemetry observibility infrastructure for PoC vehicles.
+- scaled [brikli](https://brikli.com/) from 0 -> 1; [antler](https://www.antler.co/) residency startup building next gen proptech service.
+- explored agentic self improving agents -> check out [project](https://devpost.com/software/meta-harness).
+- hackathon enjoyer ; [9x winner](https://devpost.com/justintwx7?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - on the side, i weightlift, take [photos and content create](https://www.instagram.com/frames.by.justin/reels/), travel, and learn guitar!
 - one leetcode a day keeps the doctor away...
-- seeking winter 27' swe/ai/data internships
-
 
 <h3 align="center"> what i am proficent and capable in... </h3>
 
